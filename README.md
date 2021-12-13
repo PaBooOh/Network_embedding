@@ -1,2 +1,2 @@
 # Network_embedding
-Final course project paper for SNACS 2021
+Final course project code for SNACS 2021
